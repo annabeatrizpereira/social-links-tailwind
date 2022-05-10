@@ -1,6 +1,6 @@
 <h1>Social Links 📱</h1>
 
-![social-links](https://user-images.githubusercontent.com/72225117/167627342-a94995bb-fb07-4718-ba3c-daafb1a8714d.png)
+![image](https://user-images.githubusercontent.com/72225117/167630619-49630ce1-bc5f-45ef-9aec-b4f30ea08d43.png)
 
 <h2>Description</h2>
 <ul>
